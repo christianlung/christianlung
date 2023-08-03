@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcode.com/christianlung/))
+![Leetcode Stats](https://leetcode.com/christianlung/)
 
 
 <!--
