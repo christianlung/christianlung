@@ -13,9 +13,10 @@ My name is Christian Lung and I am currently a third year undergraduate Computer
 
      📩 Email: chris2lung2003@g.ucla.edu
   
-     👔 LinkedIn:[Christian Lung](https://www.linkedin.com/in/christian-lung/)
+     👔 LinkedIn: [Christian Lung](https://www.linkedin.com/in/christian-lung/)
   
 - Fun facts:
+
      🎹 Musician by heart (piano, guitar, bass, percussion)
   
      🎮 Amateur Smash Player (don't try my Kirby)
