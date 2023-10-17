@@ -28,8 +28,9 @@ My name is Christian Lung and I am currently a third year undergraduate Computer
      🏰 Avid Disney Enjoyer
 
 Get to know me
-- Favorite Programming Language: C++ (though Brewin is a close second 😉)
-- Favorite OS: macOS for now (change my mind)
-- Favorite Project: Battleship
+     🗣️ Favorite Programming Language: C++ (though Brewin is a close second 😉)
+     💻 Favorite OS: macOS for now (change my mind)
+     🚢 Favorite Project: Battleship
+     ⌨️ Best Editor: VS Code, no competition
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/christianlung)
