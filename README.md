@@ -38,4 +38,4 @@ Get to know me
      ⌨️ Best Editor: VS Code, no competition
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/christianlung)
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/christianlung) -->
