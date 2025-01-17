@@ -14,28 +14,16 @@ My name is Christian Lung and I am currently a fourth year undergraduate Compute
      📩 Email: chris2lung2003@g.ucla.edu
   
      👔 LinkedIn: [Christian Lung](https://www.linkedin.com/in/christian-lung/)
-  
-- Fun facts:
-
-     🎹 Musician by heart (piano, guitar, bass, percussion)
-  
-     🎮 Amateur Smash Player (don't try my Kirby)
-  
-     🧋 Boba is the key to my heart
-  
-     🎵 Hot take: slow + reverb versions are always better than the original songs
-  
-     🏰 Avid Disney Enjoyer
 
 Get to know me
 
-     🗣️ Favorite Programming Language: C++ (though Brewin is a close second 😉)
+     🗣️ Favorite Programming Language: Python
     
      💻 Favorite OS: macOS for now (change my mind)
    
      🚢 Favorite Project: Battleship
      
-     ⌨️ Best Editor: VS Code, no competition
+     ⌨️ Best Editor: VS Code
 
 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/christianlung) -->
